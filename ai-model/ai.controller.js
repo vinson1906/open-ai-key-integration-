@@ -32,7 +32,7 @@ const aiCOntroller = async (req, res) => {
         const messages = [
             {
                 role: 'user',
-                content: "i have 3 rupees my friend give me 3 rupees now how many rupees i have",
+                content: "What is RAG in AI",
             },
             {
                 role: 'assistant',
